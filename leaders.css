@@ -1,0 +1,1 @@
+.leaders article{padding:0;overflow:hidden;background:#fff}.leaders article>img{display:block;width:100%;height:265px;object-fit:cover;object-position:center 22%}.leader-copy{padding:20px 24px 24px}.chief{background:var(--blue)!important}.chief>img{object-position:center 28%}@media(max-width:800px){.leaders article>img{height:330px;object-position:center 22%}}
