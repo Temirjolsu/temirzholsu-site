@@ -1,0 +1,2 @@
+/* Более компактные интервалы между разделами */
+.section{padding:78px 0}.section-heading{margin-bottom:34px}.two-col,.history-grid{gap:72px}@media(max-width:800px){.section{padding:58px 0}.two-col,.history-grid{gap:30px}}
