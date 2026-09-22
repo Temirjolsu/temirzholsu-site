@@ -1,0 +1,3 @@
+.nav-tools{display:flex;align-items:center;gap:20px}.language-switcher{display:flex;align-items:center;gap:7px;color:#afbfca;font-size:11px;font-weight:800;letter-spacing:.06em}.language-switcher button{padding:4px 0;border:0;background:transparent;color:#728593;font:inherit;cursor:pointer}.language-switcher button.active{color:var(--blue)}.language-switcher button:hover{color:var(--orange)}@media(max-width:800px){.nav-tools{gap:13px}.menu-btn{display:block}.navline.nav-open nav{top:75px}.language-switcher{font-size:10px}}
+
+html[lang="kk"] .subsidiary>button:after{content:"Толығырақ +"}html[lang="kk"] .subsidiary.open>button:after{content:"Жинау −"}
